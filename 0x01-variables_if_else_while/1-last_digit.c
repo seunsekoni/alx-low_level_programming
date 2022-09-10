@@ -3,7 +3,7 @@
 #include <time.h>
 
  /**
-  * main - Entry point.
+  * main - Entry point
   *
   * Description: print random number and append
   * Last digit of in its result.
