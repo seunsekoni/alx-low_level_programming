@@ -4,9 +4,13 @@
 
  /**
   * main - Entry point
-  *
+  * @n: Random number
+  * @s: an array of characters
+  * @l: a number that holds modul result
+  * 
   * Description: print random number.
   * Append 'Last digit of ' to its result.
+  *
   * Return: Always 0.
   */
 int main(void)
