@@ -10,9 +10,9 @@ int main(void)
 {
 	char lowerupper;
 
-	for (lowerupper = 'a'; lowerupper <= 'z'; lowerupper++;)
+	for (lowerupper = 'a'; lowerupper <= 'z'; lowerupper++)
 		putchar(lowerupper);
-	for(lowerupper = 'A'; lowerupper <= 'Z'; lowerupper++;)
+	for(lowerupper = 'A'; lowerupper <= 'Z'; lowerupper++)
 		putchar(lowerupper);
 	putchar('\n');
 
