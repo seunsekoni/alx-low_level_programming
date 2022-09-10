@@ -7,7 +7,6 @@
   *
   * Description: print random number and append
   * Last digit of in its result.
-  *
   * Return: Always 0.
   */
 int main(void)
