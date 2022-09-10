@@ -5,8 +5,8 @@
  /**
   * main - Entry point
   *
-  * Description: print random number and append
-  * Last digit of in its result.
+  * Description: print random number.
+  * Append 'Last digit of ' to its result.
   * Return: Always 0.
   */
 int main(void)
