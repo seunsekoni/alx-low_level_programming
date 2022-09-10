@@ -2,8 +2,6 @@
 /**
  * main - Entry point
  *
- * @s: hold the characters
- *
  * Description: printout characters in lowercase.
  *
  * Return: Always 0
