@@ -4,6 +4,9 @@
 
  /**
   * main - Entry point.
+  * @n: Random number
+  * @str: an array of characters
+  * @l: a number that holds modul result
   *
   * Description: print random number and append
   * 'Last digit of ' in its result
